@@ -34,31 +34,31 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 
 ### Go Solutions
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go Solution](./go/two_sum.go) |
-| 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Go Solution](./go/longest_common_prefix.go) |
-| 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go Solution](./go/palindrome_number.go) |
-| 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Go Solution](./go/remove_duplicates_from_sorted_list.go) |
-| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Go Solution](./go/best_time_to_buy_and_sell_stock.go) |
-| 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Go Solution](./go/container_with_most_water.go) |
-| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Go Solution](./go/rotate_image.go) |
-| ... | ... | ... |
+| # | Problem |Type | Difficulty | Solution |
+|---|---------|----------|----------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array | Easy | [Go Solution](./go/two_sum.go) |
+| 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Array | Easy | [Go Solution](./go/longest_common_prefix.go) |
+| 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | [Go Solution](./go/palindrome_number.go) |
+| 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | [Go Solution](./go/remove_duplicates_from_sorted_list.go) |
+| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | [Go Solution](./go/best_time_to_buy_and_sell_stock.go) |
+| 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | [Go Solution](./go/container_with_most_water.go) |
+| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | [Go Solution](./go/rotate_image.go) |
+| ... | ... | ... | ... | ... |
 
 ---
 
 ### JavaScript Solutions
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | - |
-| 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | - |
-| 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | - |
-| 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | - |
-| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | - |
-| 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | - |
-| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | - |
-| ... | ... | ... |
+| # | Problem |Type | Difficulty | Solution |
+|---|---------|----------|----------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Array | Easy | - |
+| 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Array | Easy | - |
+| 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | - |
+| 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | - |
+| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | - |
+| 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | - |
+| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | - |
+| ... | ... | ... | ... | ... |
 
 ---
 
