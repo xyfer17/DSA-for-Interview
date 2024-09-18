@@ -43,6 +43,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | [Go Solution](./go/best_time_to_buy_and_sell_stock.go) |
 | 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | [Go Solution](./go/container_with_most_water.go) |
 | 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | [Go Solution](./go/rotate_image.go) |
+| 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | [Go Solution](./go/rotate_list.go) |
 | ... | ... | ... | ... | ... |
 
 ---
@@ -58,6 +59,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | - |
 | 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | - |
 | 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | - |
+| 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | - |
 | ... | ... | ... | ... | ... |
 
 ---
