@@ -45,6 +45,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | [Go Solution](./go/rotate_image.go) |
 | 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | [Go Solution](./go/rotate_list.go) |
 | 9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Array, Binary Search | Medium | [Go Solution](./go/search_in_rotated_sorted_array.go) |
+| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Array | Hard | [Go Solution](./go/trapping_rain_water.go) |
 | ... | ... | ... | ... | ... |
 
 ---
@@ -62,6 +63,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | - |
 | 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | - |
 | 9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Array, Binary Search | Medium | - |
+| 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Array | Hard | - |
 | ... | ... | ... | ... | ... |
 
 ---
