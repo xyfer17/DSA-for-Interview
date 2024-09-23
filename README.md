@@ -47,6 +47,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Array, Binary Search | Medium | [Go Solution](./go/search_in_rotated_sorted_array.go) |
 | 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Array | Hard | [Go Solution](./go/trapping_rain_water.go) |
 | 11 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Array, Binary Search | Medium | - |
+| 12 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array | Medium | [Go Solution](./go/remove_duplicates_from_sorted_array2.go) |
 | ... | ... | ... | ... | ... |
 
 ---
@@ -66,6 +67,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Array, Binary Search | Medium | - |
 | 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Array | Hard | - |
 | 11 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Array, Binary Search | Medium | - |
+| 12 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array | Medium | - |
 | ... | ... | ... | ... | ... |
 
 ---
