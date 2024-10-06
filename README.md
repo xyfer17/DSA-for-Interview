@@ -49,7 +49,8 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 11 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Array, Binary Search | Medium | - |
 | 12 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array | Medium | [Go Solution](./go/remove_duplicates_from_sorted_array2.go) |
 | 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Array | Easy | [Go Solution](./go/search_insert_position.go) |
-| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Easy | [Go Solution](./go/valid_sudoku.go) |
+| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Medium | [Go Solution](./go/valid_sudoku.go) |
+| 15 | [Count and Say](https://leetcode.com/problems/count-and-say) | Array | Medium | [Go Solution](./go/count_and_say.go) |
 | ... | ... | ... | ... | ... |
 
 ---
@@ -71,7 +72,8 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 11 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Array, Binary Search | Medium | - |
 | 12 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Array | Medium | - |
 | 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Array | Easy | - |
-| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Easy | - |
+| 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Medium | - |
+| 15 | [Count and Say](https://leetcode.com/problems/count-and-say) | Array | Medium | - |
 | ... | ... | ... | ... | ... |
 
 ---
