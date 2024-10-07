@@ -51,6 +51,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Array | Easy | [Go Solution](./go/search_insert_position.go) |
 | 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Medium | [Go Solution](./go/valid_sudoku.go) |
 | 15 | [Count and Say](https://leetcode.com/problems/count-and-say) | Array | Medium | [Go Solution](./go/count_and_say.go) |
+| 16 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Linked List | Medium | [Go Solution](./go/add_tow_numbers.go) |
 | ... | ... | ... | ... | ... |
 
 ---
@@ -74,6 +75,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Array | Easy | - |
 | 14 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | Array | Medium | - |
 | 15 | [Count and Say](https://leetcode.com/problems/count-and-say) | Array | Medium | - |
+| 16 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Linked List | Medium | - |
 | ... | ... | ... | ... | ... |
 
 ---
