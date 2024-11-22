@@ -91,7 +91,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | - |
 | 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | - |
 | 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | - |
-| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | - |
+| 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | [Ruby Solution](.ruby/rotate_image.rb) |
 | 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | - |
 | 9 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Array, Binary Search | Medium | - |
 | 10 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Array | Hard | - |
