@@ -89,7 +89,7 @@ Below is the list of LeetCode DSA problems solved in **Go** and **JavaScript**. 
 | 2 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Array | Easy | - |
 | 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Math | Easy | - |
 | 4 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Linked List | Easy | - |
-| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | - |
+| 5 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array | Easy | [Ruby Solution](./ruby/rotate_image.rb) |
 | 6 | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Array | Medium | - |
 | 7 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | Array | Medium | [Ruby Solution](./ruby/rotate_image.rb) |
 | 8 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Linked List | Medium | - |
